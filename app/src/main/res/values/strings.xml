@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Vaccine</string>
+    <string name="search">Search</string>
+    <string name="enter_pincode">Enter PinCode</string>
+    <string name="center_name">Center Name</string>
+    <string name="center_address">Center Address</string>
+    <string name="timings">Timings</string>
+    <string name="fee_type">Fee Type</string>
+    <string name="vaccine_name">Vaccine Name</string>
+    <string name="age_limit">Age Limit</string>
+    <string name="availability">Availability</string>
+</resources>
